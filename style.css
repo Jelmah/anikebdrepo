@@ -19,7 +19,13 @@ footer{
     color: white;
     padding-top: 80px;
     font-size: 40px;
-    height: 200px;
     text-align: center;
     color: yellow;
+}
+button{
+    background-color: green;
+    color: white;
+    font-size: 24px;
+    padding: 5px;
+    margin: 12px;
 }
