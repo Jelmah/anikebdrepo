@@ -10,16 +10,11 @@
 img{
     margin: 10px;
 }
-#div2{
-    text-align: center;
-    background-color: aqua;
-}
+
 footer{
     background-color: palevioletred;
-    color: white;
-    padding-top: 80px;
-    height: 600px;
-    font-size: 40px;
+    padding-top: 30px;
+    font-size: 28px;
     text-align: center;
     color: yellow;
 }
